@@ -1,0 +1,4 @@
+baseURL = 'https://jimholcomb.com'
+languageCode = 'en-us'
+title = 'Jim Holcomb Consulting Home'
+theme = 'ananke'
